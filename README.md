@@ -1,7 +1,7 @@
 # code-aster-examples
 A number of examples for the open-source Finite Element Solver [Code_Aster](https://www.code-aster.org/) and [Salome_Meca](https://www.code-aster.org/spip.php?article303)
 
-## Examples
+## Examplessss
 
 Each folder contains a `.med` file with the mesh of the structure and a `.comm` file with the command file for Code_Aster. With these files anyone shoulf be able to reproduce the analyses with or without Salome_Meca. See the [IFC2CA video](https://youtu.be/V9Pc7SJvuRg) if you want to see how to reproduce the analyses with asterStudy, a dedicated module of Salome_Meca.
 
